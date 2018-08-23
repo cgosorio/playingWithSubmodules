@@ -1,0 +1,3 @@
+[submodule "yappy"]
+	path = yappy
+	url = https://github.com/cgosorio/yappy
